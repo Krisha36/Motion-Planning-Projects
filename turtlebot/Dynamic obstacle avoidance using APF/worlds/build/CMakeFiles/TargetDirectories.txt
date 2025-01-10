@@ -1,0 +1,5 @@
+/home/krisha/catkin_ws/src/assignment2/worlds/build/CMakeFiles/rebuild_cache.dir
+/home/krisha/catkin_ws/src/assignment2/worlds/build/CMakeFiles/edit_cache.dir
+/home/krisha/catkin_ws/src/assignment2/worlds/build/CMakeFiles/integrated_main.dir
+/home/krisha/catkin_ws/src/assignment2/worlds/build/CMakeFiles/independent_listener.dir
+/home/krisha/catkin_ws/src/assignment2/worlds/build/CMakeFiles/animated_box.dir
